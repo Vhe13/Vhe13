@@ -21,7 +21,7 @@
 
 ### Main skills:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=D60404&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 
@@ -33,7 +33,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=D60404&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 <!--![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;-->
   
@@ -48,3 +48,5 @@
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA0000&height=120&section=footer"/>
+
+![Snake animation](https://github.com/Vhe13/Vhe13/blob/output/github-contribution-grid-snake.svg)
